@@ -1,0 +1,6 @@
+[07-Feb-2016 19:54:21 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/conta761/public_html/muriel/index.php on line 151
+[09-Feb-2016 07:25:25 America/Chicago] PHP Warning:  unlink(foto/foto3x4.png): No such file or directory in /home/conta761/public_html/muriel/index.php on line 170
+[09-Feb-2016 13:10:20 America/Chicago] PHP Warning:  unlink(foto/foto3x4.png): No such file or directory in /home/conta761/public_html/muriel/index.php on line 170
+[09-Feb-2016 13:10:20 America/Chicago] PHP Warning:  unlink(foto/foto3x4.jpg): No such file or directory in /home/conta761/public_html/muriel/index.php on line 171
+[09-Feb-2016 13:10:20 America/Chicago] PHP Warning:  unlink(foto/foto_cortada.gif): No such file or directory in /home/conta761/public_html/muriel/index.php on line 172
+[09-Feb-2016 13:13:54 America/Chicago] PHP Warning:  unlink(foto/foto3x4.png): No such file or directory in /home/conta761/public_html/muriel/index.php on line 170
